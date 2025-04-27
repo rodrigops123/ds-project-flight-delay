@@ -1,0 +1,5 @@
+2025-04-27 10:46:54,217 | INFO | [START] SQL Data cleaning pipeline
+2025-04-27 10:46:54,219 | INFO | Connected to database at /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/processed/flights.db
+2025-04-27 10:46:54,219 | INFO | Starting SQL-based data cleaning
+2025-04-27 10:46:54,221 | INFO | SQL cleaning script applied and flights_clean table created
+2025-04-27 10:46:54,221 | INFO | [END] SQL Data cleaning pipeline completed.
