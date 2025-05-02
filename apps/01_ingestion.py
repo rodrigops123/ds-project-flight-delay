@@ -5,7 +5,7 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + "/..")
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 # Read config variables
@@ -19,8 +19,9 @@ def fetch_flights(api_key: str, airport_code: str) -> dict:
     url = "http://api.aviationstack.com/v1/flights"
     params = {
         "access_key": api_key,
-        "dep_iata": airport_code,  # departure airport code
-        "limit": 100,  # Max records per request (AviationStack free tier limits it anyway)
+        "dep_iata": airport_code,
+        "limit": 100,
+        "flight_status": "landed",
     }
     
     response = requests.get(url, params=params)
@@ -47,10 +48,9 @@ def main():
     """Main ingestion pipeline."""
     logger.info("[START] Flight data ingestion pipeline")
     
-    flights_data = fetch_flights(API_KEY, AIRPORT_CODE)
-    
-    if flights_data:
-        save_raw_data(flights_data, OUTPUT_DIR)
+    daily_flights_data = fetch_flights(API_KEY, AIRPORT_CODE)
+    if daily_flights_data:
+        save_raw_data(daily_flights_data, OUTPUT_DIR)
     
     logger.info("[END] Ingestion pipeline completed.")
 

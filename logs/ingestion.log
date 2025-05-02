@@ -1,0 +1,58 @@
+2025-05-02 10:53:52,199 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 10:53:52,899 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:53,256 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:53,684 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:54,084 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:54,480 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:54,835 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:55,174 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:55,721 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:56,132 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:56,477 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:57,169 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:57,564 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:57,787 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:58,283 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:58,793 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:59,216 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:59,492 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:53:59,932 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:00,340 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:00,732 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:01,257 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:01,536 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:02,085 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:02,489 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:03,855 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 10:54:04,325 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 11:18:22,234 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 11:18:23,037 | ERROR | Failed to fetch data: 403 - {"error":{"code":"function_access_restricted","message":"Your current subscription plan does not support this API function."}}
+2025-05-02 11:18:23,038 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 11:18:59,872 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 11:19:01,667 | INFO | Successfully fetched data for airport VIX
+2025-05-02 11:19:01,683 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_111901.json
+2025-05-02 11:19:01,684 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 15:05:55,537 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 15:05:57,762 | INFO | Successfully fetched data for airport VIX
+2025-05-02 15:05:57,781 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_150557.json
+2025-05-02 15:05:57,781 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 15:39:08,965 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 15:39:11,147 | INFO | Successfully fetched data for airport VIX
+2025-05-02 15:39:11,160 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_153911.json
+2025-05-02 15:39:11,161 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 16:07:01,349 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:07:03,347 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:07:03,367 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160703.json
+2025-05-02 16:07:03,368 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 16:08:00,815 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:08:02,708 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:08:02,729 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160802.json
+2025-05-02 16:08:02,730 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 16:09:01,197 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:09:02,948 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:09:02,965 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160902.json
+2025-05-02 16:09:02,966 | INFO | [END] Ingestion pipeline completed.
+2025-05-02 16:10:01,373 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:10:03,163 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:10:03,180 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_161003.json
+2025-05-02 16:10:03,181 | INFO | [END] Ingestion pipeline completed.

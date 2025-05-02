@@ -1,0 +1,85 @@
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+/bin/bash: /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/run_ingestion.sh: Operation not permitted
+grep: .env: No such file or directory
+declare -x HOME="/Users/rodrigosilva"
+declare -x LOGNAME="rodrigosilva"
+declare -x OLDPWD
+declare -x PATH="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/bin:/usr/bin:/bin"
+declare -x PS1="(.venv) "
+declare -x PWD="/Users/rodrigosilva"
+declare -x SHELL="/bin/sh"
+declare -x SHLVL="2"
+declare -x USER="rodrigosilva"
+declare -x VIRTUAL_ENV="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv"
+/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-05-02 16:07:01,349 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:07:03,347 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:07:03,367 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160703.json
+2025-05-02 16:07:03,368 | INFO | [END] Ingestion pipeline completed.
+grep: .env: No such file or directory
+declare -x HOME="/Users/rodrigosilva"
+declare -x LOGNAME="rodrigosilva"
+declare -x OLDPWD
+declare -x PATH="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/bin:/usr/bin:/bin"
+declare -x PS1="(.venv) "
+declare -x PWD="/Users/rodrigosilva"
+declare -x SHELL="/bin/sh"
+declare -x SHLVL="2"
+declare -x USER="rodrigosilva"
+declare -x VIRTUAL_ENV="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv"
+/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-05-02 16:08:00,815 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:08:02,708 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:08:02,729 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160802.json
+2025-05-02 16:08:02,730 | INFO | [END] Ingestion pipeline completed.
+grep: .env: No such file or directory
+declare -x HOME="/Users/rodrigosilva"
+declare -x LOGNAME="rodrigosilva"
+declare -x OLDPWD
+declare -x PATH="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/bin:/usr/bin:/bin"
+declare -x PS1="(.venv) "
+declare -x PWD="/Users/rodrigosilva"
+declare -x SHELL="/bin/sh"
+declare -x SHLVL="2"
+declare -x USER="rodrigosilva"
+declare -x VIRTUAL_ENV="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv"
+/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-05-02 16:09:01,197 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:09:02,948 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:09:02,965 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_160902.json
+2025-05-02 16:09:02,966 | INFO | [END] Ingestion pipeline completed.
+grep: .env: No such file or directory
+declare -x HOME="/Users/rodrigosilva"
+declare -x LOGNAME="rodrigosilva"
+declare -x OLDPWD
+declare -x PATH="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/bin:/usr/bin:/bin"
+declare -x PS1="(.venv) "
+declare -x PWD="/Users/rodrigosilva"
+declare -x SHELL="/bin/sh"
+declare -x SHLVL="2"
+declare -x USER="rodrigosilva"
+declare -x VIRTUAL_ENV="/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv"
+/Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-05-02 16:10:01,373 | INFO | [START] Flight data ingestion pipeline
+2025-05-02 16:10:03,163 | INFO | Successfully fetched data for airport VIX
+2025-05-02 16:10:03,180 | INFO | Saved raw data to /Users/rodrigosilva/Documents/Análise de dados/ds-project-flight-delay/data/raw/flights_raw_20250502_161003.json
+2025-05-02 16:10:03,181 | INFO | [END] Ingestion pipeline completed.

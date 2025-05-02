@@ -1,0 +1,5216 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 121
+    },
+    "data": [
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "2",
+                "delay": 7,
+                "scheduled": "2025-05-02T07:00:00+00:00",
+                "estimated": "2025-05-02T07:00:00+00:00",
+                "actual": "2025-05-02T07:07:00+00:00",
+                "estimated_runway": "2025-05-02T07:07:00+00:00",
+                "actual_runway": "2025-05-02T07:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "3",
+                "scheduled": "2025-05-02T08:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T08:31:00+00:00",
+                "actual": "2025-05-02T08:27:00+00:00",
+                "estimated_runway": "2025-05-02T08:27:00+00:00",
+                "actual_runway": "2025-05-02T08:27:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1345",
+                "iata": "G31345",
+                "icao": "GLO1345",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GRI",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49EEC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "3",
+                "delay": 2,
+                "scheduled": "2025-05-02T06:00:00+00:00",
+                "estimated": "2025-05-02T06:00:00+00:00",
+                "actual": "2025-05-02T06:01:00+00:00",
+                "estimated_runway": "2025-05-02T06:01:00+00:00",
+                "actual_runway": "2025-05-02T06:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "scheduled": "2025-05-02T07:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T07:25:00+00:00",
+                "actual": "2025-05-02T07:27:00+00:00",
+                "estimated_runway": "2025-05-02T07:27:00+00:00",
+                "actual_runway": "2025-05-02T07:27:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3243",
+                "iata": "LA3243",
+                "icao": "LAN3243",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-TMC",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "E4851A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "3",
+                "delay": 2,
+                "scheduled": "2025-05-02T09:15:00+00:00",
+                "estimated": "2025-05-02T09:15:00+00:00",
+                "actual": "2025-05-02T09:17:00+00:00",
+                "estimated_runway": "2025-05-02T09:17:00+00:00",
+                "actual_runway": "2025-05-02T09:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "5",
+                "scheduled": "2025-05-02T10:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T10:39:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3641",
+                "iata": "LA3641",
+                "icao": "LAN3641",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYM",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E490EF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-02T08:40:00+00:00",
+                "estimated": "2025-05-02T08:40:00+00:00",
+                "actual": "2025-05-02T08:46:00+00:00",
+                "estimated_runway": "2025-05-02T08:46:00+00:00",
+                "actual_runway": "2025-05-02T08:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B40",
+                "baggage": "09",
+                "scheduled": "2025-05-02T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:40:00+00:00",
+                "actual": "2025-05-02T09:39:00+00:00",
+                "estimated_runway": "2025-05-02T09:39:00+00:00",
+                "actual_runway": "2025-05-02T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7479",
+                "iata": "AR7479",
+                "icao": "ARG7479",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1951",
+                    "flight_iata": "g31951",
+                    "flight_icao": "glo1951"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 4,
+                "scheduled": "2025-05-02T04:45:00+00:00",
+                "estimated": "2025-05-02T04:45:00+00:00",
+                "actual": "2025-05-02T04:48:00+00:00",
+                "estimated_runway": "2025-05-02T04:48:00+00:00",
+                "actual_runway": "2025-05-02T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-02T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:35:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T05:37:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7559",
+                "iata": "AR7559",
+                "icao": "ARG7559",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 3,
+                "scheduled": "2025-05-02T08:30:00+00:00",
+                "estimated": "2025-05-02T08:30:00+00:00",
+                "actual": "2025-05-02T08:33:00+00:00",
+                "estimated_runway": "2025-05-02T08:33:00+00:00",
+                "actual_runway": "2025-05-02T08:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B25",
+                "baggage": "10",
+                "scheduled": "2025-05-02T09:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:26:00+00:00",
+                "actual": "2025-05-02T09:24:00+00:00",
+                "estimated_runway": "2025-05-02T09:24:00+00:00",
+                "actual_runway": "2025-05-02T09:24:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8329",
+                "iata": "AR8329",
+                "icao": "ARG8329",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3665",
+                    "flight_iata": "la3665",
+                    "flight_icao": "lan3665"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "1",
+                "delay": 28,
+                "scheduled": "2025-05-02T07:00:00+00:00",
+                "estimated": "2025-05-02T07:00:00+00:00",
+                "actual": "2025-05-02T07:28:00+00:00",
+                "estimated_runway": "2025-05-02T07:28:00+00:00",
+                "actual_runway": "2025-05-02T07:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B25",
+                "baggage": "10",
+                "scheduled": "2025-05-02T08:10:00+00:00",
+                "delay": 12,
+                "estimated": "2025-05-02T08:22:00+00:00",
+                "actual": "2025-05-02T08:22:00+00:00",
+                "estimated_runway": "2025-05-02T08:22:00+00:00",
+                "actual_runway": "2025-05-02T08:22:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8332",
+                "iata": "AR8332",
+                "icao": "ARG8332",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3855",
+                    "flight_iata": "la3855",
+                    "flight_icao": "lan3855"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 4,
+                "scheduled": "2025-05-02T04:45:00+00:00",
+                "estimated": "2025-05-02T04:45:00+00:00",
+                "actual": "2025-05-02T04:48:00+00:00",
+                "estimated_runway": "2025-05-02T04:48:00+00:00",
+                "actual_runway": "2025-05-02T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-02T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:35:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T05:37:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "SA AVIANCA",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "4799",
+                "iata": "AV4799",
+                "icao": "AVA4799",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-02T08:40:00+00:00",
+                "estimated": "2025-05-02T08:40:00+00:00",
+                "actual": "2025-05-02T08:46:00+00:00",
+                "estimated_runway": "2025-05-02T08:46:00+00:00",
+                "actual_runway": "2025-05-02T08:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C45",
+                "baggage": "09",
+                "scheduled": "2025-05-02T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:40:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T09:39:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "3706",
+                "iata": "EK3706",
+                "icao": "UAE3706",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1803",
+                    "flight_iata": "g31803",
+                    "flight_icao": "glo1803"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-02T08:40:00+00:00",
+                "estimated": "2025-05-02T08:40:00+00:00",
+                "actual": "2025-05-02T08:46:00+00:00",
+                "estimated_runway": "2025-05-02T08:46:00+00:00",
+                "actual_runway": "2025-05-02T08:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C45",
+                "baggage": "09",
+                "scheduled": "2025-05-02T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:40:00+00:00",
+                "actual": "2025-05-02T09:39:00+00:00",
+                "estimated_runway": "2025-05-02T09:39:00+00:00",
+                "actual_runway": "2025-05-02T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1803",
+                "iata": "G31803",
+                "icao": "GLO1803",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XMB",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49405"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 4,
+                "scheduled": "2025-05-02T04:45:00+00:00",
+                "estimated": "2025-05-02T04:45:00+00:00",
+                "actual": "2025-05-02T04:48:00+00:00",
+                "estimated_runway": "2025-05-02T04:48:00+00:00",
+                "actual_runway": "2025-05-02T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-02T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:35:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T05:37:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1973",
+                "iata": "G31973",
+                "icao": "GLO1973",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GPG",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49957"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 3,
+                "scheduled": "2025-05-02T08:30:00+00:00",
+                "estimated": "2025-05-02T08:30:00+00:00",
+                "actual": "2025-05-02T08:33:00+00:00",
+                "estimated_runway": "2025-05-02T08:33:00+00:00",
+                "actual_runway": "2025-05-02T08:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B25",
+                "baggage": "10",
+                "scheduled": "2025-05-02T09:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:26:00+00:00",
+                "actual": "2025-05-02T09:24:00+00:00",
+                "estimated_runway": "2025-05-02T09:24:00+00:00",
+                "actual_runway": "2025-05-02T09:24:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3665",
+                "iata": "LA3665",
+                "icao": "LAN3665",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-MHG",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E4803D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 9,
+                "scheduled": "2025-05-02T11:35:00+00:00",
+                "estimated": "2025-05-02T11:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B28",
+                "baggage": "10",
+                "scheduled": "2025-05-02T12:45:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3667",
+                "iata": "LA3667",
+                "icao": "LAN3667",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYT",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E49180"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "1",
+                "delay": 28,
+                "scheduled": "2025-05-02T07:00:00+00:00",
+                "estimated": "2025-05-02T07:00:00+00:00",
+                "actual": "2025-05-02T07:28:00+00:00",
+                "estimated_runway": "2025-05-02T07:28:00+00:00",
+                "actual_runway": "2025-05-02T07:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B25",
+                "baggage": "10",
+                "scheduled": "2025-05-02T08:10:00+00:00",
+                "delay": 12,
+                "estimated": "2025-05-02T08:22:00+00:00",
+                "actual": "2025-05-02T08:22:00+00:00",
+                "estimated_runway": "2025-05-02T08:22:00+00:00",
+                "actual_runway": "2025-05-02T08:22:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3855",
+                "iata": "LA3855",
+                "icao": "LAN3855",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XBA",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E4944E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-02T08:40:00+00:00",
+                "estimated": "2025-05-02T08:40:00+00:00",
+                "actual": "2025-05-02T08:46:00+00:00",
+                "estimated_runway": "2025-05-02T08:46:00+00:00",
+                "actual_runway": "2025-05-02T08:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C45",
+                "baggage": "09",
+                "scheduled": "2025-05-02T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T09:40:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T09:39:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5753",
+                "iata": "TP5753",
+                "icao": "TAP5753",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1803",
+                    "flight_iata": "g31803",
+                    "flight_icao": "glo1803"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 4,
+                "scheduled": "2025-05-02T04:45:00+00:00",
+                "estimated": "2025-05-02T04:45:00+00:00",
+                "actual": "2025-05-02T04:48:00+00:00",
+                "estimated_runway": "2025-05-02T04:48:00+00:00",
+                "actual_runway": "2025-05-02T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-02T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:35:00+00:00",
+                "actual": "2025-05-02T05:37:00+00:00",
+                "estimated_runway": "2025-05-02T05:37:00+00:00",
+                "actual_runway": "2025-05-02T05:37:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5807",
+                "iata": "TP5807",
+                "icao": "TAP5807",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "3",
+                "delay": 1,
+                "scheduled": "2025-05-02T04:25:00+00:00",
+                "estimated": "2025-05-02T04:25:00+00:00",
+                "actual": "2025-05-02T04:26:00+00:00",
+                "estimated_runway": "2025-05-02T04:26:00+00:00",
+                "actual_runway": "2025-05-02T04:26:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T06:00:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:41:00+00:00",
+                "actual": "2025-05-02T05:43:00+00:00",
+                "estimated_runway": "2025-05-02T05:43:00+00:00",
+                "actual_runway": "2025-05-02T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8487",
+                "iata": "AM8487",
+                "icao": "AMX8487",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4537",
+                    "flight_iata": "la4537",
+                    "flight_icao": "lan4537"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": null,
+                "scheduled": "2025-05-02T10:50:00+00:00",
+                "estimated": "2025-05-02T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Viracopos (Campinas International)",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VCP",
+                "icao": "SBKP",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T12:30:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "5093",
+                "iata": "AD5093",
+                "icao": "AZU5093",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-YJD",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "E4962E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": null,
+                "scheduled": "2025-05-02T05:50:00+00:00",
+                "estimated": "2025-05-02T05:50:00+00:00",
+                "actual": "2025-05-02T05:48:00+00:00",
+                "estimated_runway": "2025-05-02T05:48:00+00:00",
+                "actual_runway": "2025-05-02T05:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Viracopos (Campinas International)",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VCP",
+                "icao": "SBKP",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T07:30:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T07:08:00+00:00",
+                "actual": "2025-05-02T07:10:00+00:00",
+                "estimated_runway": "2025-05-02T07:10:00+00:00",
+                "actual_runway": "2025-05-02T07:10:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "4921",
+                "iata": "AD4921",
+                "icao": "AZU4921",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-YYC",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E49388"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 2,
+                "scheduled": "2025-05-02T06:50:00+00:00",
+                "estimated": "2025-05-02T06:50:00+00:00",
+                "actual": "2025-05-02T06:51:00+00:00",
+                "estimated_runway": "2025-05-02T06:51:00+00:00",
+                "actual_runway": "2025-05-02T06:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T08:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T08:10:00+00:00",
+                "actual": "2025-05-02T08:11:00+00:00",
+                "estimated_runway": "2025-05-02T08:11:00+00:00",
+                "actual_runway": "2025-05-02T08:11:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "7371",
+                "iata": "DL7371",
+                "icao": "DAL7371",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3358",
+                    "flight_iata": "la3358",
+                    "flight_icao": "lan3358"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-02T11:35:00+00:00",
+                "estimated": "2025-05-02T11:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T13:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1637",
+                "iata": "G31637",
+                "icao": "GLO1637",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-GYA",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "E491C3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 4,
+                "scheduled": "2025-05-02T09:45:00+00:00",
+                "estimated": "2025-05-02T09:45:00+00:00",
+                "actual": "2025-05-02T09:48:00+00:00",
+                "estimated_runway": "2025-05-02T09:48:00+00:00",
+                "actual_runway": "2025-05-02T09:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T11:20:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T11:04:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3331",
+                "iata": "LA3331",
+                "icao": "LAN3331",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-XPN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "E49247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 2,
+                "scheduled": "2025-05-02T06:50:00+00:00",
+                "estimated": "2025-05-02T06:50:00+00:00",
+                "actual": "2025-05-02T06:51:00+00:00",
+                "estimated_runway": "2025-05-02T06:51:00+00:00",
+                "actual_runway": "2025-05-02T06:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T08:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T08:10:00+00:00",
+                "actual": "2025-05-02T08:11:00+00:00",
+                "estimated_runway": "2025-05-02T08:11:00+00:00",
+                "actual_runway": "2025-05-02T08:11:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3358",
+                "iata": "LA3358",
+                "icao": "LAN3358",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XBQ",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E49C59"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": null,
+                "scheduled": "2025-05-02T05:00:00+00:00",
+                "estimated": "2025-05-02T05:00:00+00:00",
+                "actual": "2025-05-02T04:59:00+00:00",
+                "estimated_runway": "2025-05-02T04:59:00+00:00",
+                "actual_runway": "2025-05-02T04:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guararapes International",
+                "timezone": "America/Recife",
+                "iata": "REC",
+                "icao": "SBRF",
+                "terminal": "T1",
+                "gate": "S04",
+                "baggage": "S04",
+                "scheduled": "2025-05-02T07:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T07:04:00+00:00",
+                "actual": "2025-05-02T07:00:00+00:00",
+                "estimated_runway": "2025-05-02T07:00:00+00:00",
+                "actual_runway": "2025-05-02T07:00:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5417",
+                "iata": "TP5417",
+                "icao": "TAP5417",
+                "codeshared": {
+                    "airline_name": "azul",
+                    "airline_iata": "ad",
+                    "airline_icao": "azu",
+                    "flight_number": "4310",
+                    "flight_iata": "ad4310",
+                    "flight_icao": "azu4310"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "3",
+                "delay": 1,
+                "scheduled": "2025-05-02T04:25:00+00:00",
+                "estimated": "2025-05-02T04:25:00+00:00",
+                "actual": "2025-05-02T04:26:00+00:00",
+                "estimated_runway": "2025-05-02T04:26:00+00:00",
+                "actual_runway": "2025-05-02T04:26:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-02T06:00:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T05:41:00+00:00",
+                "actual": "2025-05-02T05:43:00+00:00",
+                "estimated_runway": "2025-05-02T05:43:00+00:00",
+                "actual_runway": "2025-05-02T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4537",
+                "iata": "LA4537",
+                "icao": "LAN4537",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYV",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E49220"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-02",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": null,
+                "scheduled": "2025-05-02T05:00:00+00:00",
+                "estimated": "2025-05-02T05:00:00+00:00",
+                "actual": "2025-05-02T04:59:00+00:00",
+                "estimated_runway": "2025-05-02T04:59:00+00:00",
+                "actual_runway": "2025-05-02T04:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guararapes International",
+                "timezone": "America/Recife",
+                "iata": "REC",
+                "icao": "SBRF",
+                "terminal": "T1",
+                "gate": "S04",
+                "baggage": "S04",
+                "scheduled": "2025-05-02T07:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-02T07:04:00+00:00",
+                "actual": "2025-05-02T07:00:00+00:00",
+                "estimated_runway": "2025-05-02T07:00:00+00:00",
+                "actual_runway": "2025-05-02T07:00:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "4310",
+                "iata": "AD4310",
+                "icao": "AZU4310",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-YYJ",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E492CF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 2,
+                "scheduled": "2025-05-01T18:00:00+00:00",
+                "estimated": "2025-05-01T18:00:00+00:00",
+                "actual": "2025-05-01T18:02:00+00:00",
+                "estimated_runway": "2025-05-01T18:02:00+00:00",
+                "actual_runway": "2025-05-01T18:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Presidente Juscelino Kubitschek",
+                "timezone": "America/Sao_Paulo",
+                "iata": "BSB",
+                "icao": "SBBR",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T19:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T19:28:00+00:00",
+                "actual": "2025-05-01T19:32:00+00:00",
+                "estimated_runway": "2025-05-01T19:32:00+00:00",
+                "actual_runway": "2025-05-01T19:32:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3867",
+                "iata": "LA3867",
+                "icao": "LAN3867",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-MXJ",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "E48DC5"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2025-05-01T07:00:00+00:00",
+                "estimated": "2025-05-01T07:00:00+00:00",
+                "actual": "2025-05-01T06:59:00+00:00",
+                "estimated_runway": "2025-05-01T06:59:00+00:00",
+                "actual_runway": "2025-05-01T06:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "3",
+                "scheduled": "2025-05-01T08:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T08:18:00+00:00",
+                "actual": "2025-05-01T08:20:00+00:00",
+                "estimated_runway": "2025-05-01T08:20:00+00:00",
+                "actual_runway": "2025-05-01T08:20:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1345",
+                "iata": "G31345",
+                "icao": "GLO1345",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GRI",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49EEC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 8,
+                "scheduled": "2025-05-01T11:00:00+00:00",
+                "estimated": "2025-05-01T11:00:00+00:00",
+                "actual": "2025-05-01T11:08:00+00:00",
+                "estimated_runway": "2025-05-01T11:08:00+00:00",
+                "actual_runway": "2025-05-01T11:08:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "2",
+                "scheduled": "2025-05-01T12:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:26:00+00:00",
+                "actual": "2025-05-01T12:28:00+00:00",
+                "estimated_runway": "2025-05-01T12:28:00+00:00",
+                "actual_runway": "2025-05-01T12:28:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1423",
+                "iata": "G31423",
+                "icao": "GLO1423",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GRD",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49BAF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": 23,
+                "scheduled": "2025-05-01T16:05:00+00:00",
+                "estimated": "2025-05-01T16:05:00+00:00",
+                "actual": "2025-05-01T16:27:00+00:00",
+                "estimated_runway": "2025-05-01T16:27:00+00:00",
+                "actual_runway": "2025-05-01T16:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "3",
+                "scheduled": "2025-05-01T17:45:00+00:00",
+                "delay": 9,
+                "estimated": "2025-05-01T17:52:00+00:00",
+                "actual": "2025-05-01T17:54:00+00:00",
+                "estimated_runway": "2025-05-01T17:54:00+00:00",
+                "actual_runway": "2025-05-01T17:54:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1491",
+                "iata": "G31491",
+                "icao": "GLO1491",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GPQ",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49CA9"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 4,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T06:04:00+00:00",
+                "estimated_runway": "2025-05-01T06:04:00+00:00",
+                "actual_runway": "2025-05-01T06:04:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "5",
+                "scheduled": "2025-05-01T07:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:25:00+00:00",
+                "actual": "2025-05-01T07:30:00+00:00",
+                "estimated_runway": "2025-05-01T07:30:00+00:00",
+                "actual_runway": "2025-05-01T07:30:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3243",
+                "iata": "LA3243",
+                "icao": "LAN3243",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-TMC",
+                "iata": "A319",
+                "icao": "A319",
+                "icao24": "E4851A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 2,
+                "scheduled": "2025-05-01T09:15:00+00:00",
+                "estimated": "2025-05-01T09:15:00+00:00",
+                "actual": "2025-05-01T09:16:00+00:00",
+                "estimated_runway": "2025-05-01T09:16:00+00:00",
+                "actual_runway": "2025-05-01T09:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "scheduled": "2025-05-01T10:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T10:37:00+00:00",
+                "actual": "2025-05-01T10:39:00+00:00",
+                "estimated_runway": "2025-05-01T10:39:00+00:00",
+                "actual_runway": "2025-05-01T10:39:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3641",
+                "iata": "LA3641",
+                "icao": "LAN3641",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYM",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E490EF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T19:15:00+00:00",
+                "estimated": "2025-05-01T19:15:00+00:00",
+                "actual": "2025-05-01T19:12:00+00:00",
+                "estimated_runway": "2025-05-01T19:12:00+00:00",
+                "actual_runway": "2025-05-01T19:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "scheduled": "2025-05-01T20:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T20:34:00+00:00",
+                "actual": "2025-05-01T20:36:00+00:00",
+                "estimated_runway": "2025-05-01T20:36:00+00:00",
+                "actual_runway": "2025-05-01T20:36:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3643",
+                "iata": "LA3643",
+                "icao": "LAN3643",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-MYA",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E48273"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 9,
+                "scheduled": "2025-05-01T15:25:00+00:00",
+                "estimated": "2025-05-01T15:25:00+00:00",
+                "actual": "2025-05-01T15:22:00+00:00",
+                "estimated_runway": "2025-05-01T15:22:00+00:00",
+                "actual_runway": "2025-05-01T15:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Congonhas International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CGH",
+                "icao": "SBSP",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "scheduled": "2025-05-01T17:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:46:00+00:00",
+                "actual": "2025-05-01T16:47:00+00:00",
+                "estimated_runway": "2025-05-01T16:47:00+00:00",
+                "actual_runway": "2025-05-01T16:47:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3645",
+                "iata": "LA3645",
+                "icao": "LAN3645",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYM",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E490EF"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "5",
+                "delay": 8,
+                "scheduled": "2025-05-01T10:55:00+00:00",
+                "estimated": "2025-05-01T10:55:00+00:00",
+                "actual": "2025-05-01T11:03:00+00:00",
+                "estimated_runway": "2025-05-01T11:03:00+00:00",
+                "actual_runway": "2025-05-01T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T11:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T11:49:00+00:00",
+                "actual": "2025-05-01T11:53:00+00:00",
+                "estimated_runway": "2025-05-01T11:53:00+00:00",
+                "actual_runway": "2025-05-01T11:53:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "2672",
+                "iata": "AD2672",
+                "icao": "AZU2672",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T18:35:00+00:00",
+                "estimated": "2025-05-01T18:35:00+00:00",
+                "actual": "2025-05-01T18:33:00+00:00",
+                "estimated_runway": "2025-05-01T18:33:00+00:00",
+                "actual_runway": "2025-05-01T18:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T19:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T19:25:00+00:00",
+                "actual": "2025-05-01T19:18:00+00:00",
+                "estimated_runway": "2025-05-01T19:18:00+00:00",
+                "actual_runway": "2025-05-01T19:18:00+00:00"
+            },
+            "airline": {
+                "name": "Azul",
+                "iata": "AD",
+                "icao": "AZU"
+            },
+            "flight": {
+                "number": "2994",
+                "iata": "AD2994",
+                "icao": "AZU2994",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T18:35:00+00:00",
+                "estimated": "2025-05-01T18:35:00+00:00",
+                "actual": "2025-05-01T18:33:00+00:00",
+                "estimated_runway": "2025-05-01T18:33:00+00:00",
+                "actual_runway": "2025-05-01T18:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T19:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T19:25:00+00:00",
+                "actual": "2025-05-01T19:18:00+00:00",
+                "estimated_runway": "2025-05-01T19:18:00+00:00",
+                "actual_runway": "2025-05-01T19:18:00+00:00"
+            },
+            "airline": {
+                "name": "Copa Airlines",
+                "iata": "CM",
+                "icao": "CMP"
+            },
+            "flight": {
+                "number": "7179",
+                "iata": "CM7179",
+                "icao": "CMP7179",
+                "codeshared": {
+                    "airline_name": "azul",
+                    "airline_iata": "ad",
+                    "airline_icao": "azu",
+                    "flight_number": "2994",
+                    "flight_iata": "ad2994",
+                    "flight_icao": "azu2994"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "5",
+                "delay": 8,
+                "scheduled": "2025-05-01T10:55:00+00:00",
+                "estimated": "2025-05-01T10:55:00+00:00",
+                "actual": "2025-05-01T11:03:00+00:00",
+                "estimated_runway": "2025-05-01T11:03:00+00:00",
+                "actual_runway": "2025-05-01T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T11:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T11:49:00+00:00",
+                "actual": "2025-05-01T11:53:00+00:00",
+                "estimated_runway": "2025-05-01T11:53:00+00:00",
+                "actual_runway": "2025-05-01T11:53:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "3704",
+                "iata": "G33704",
+                "icao": "GLO3704",
+                "codeshared": {
+                    "airline_name": "azul",
+                    "airline_iata": "ad",
+                    "airline_icao": "azu",
+                    "flight_number": "2672",
+                    "flight_iata": "ad2672",
+                    "flight_icao": "azu2672"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T18:35:00+00:00",
+                "estimated": "2025-05-01T18:35:00+00:00",
+                "actual": "2025-05-01T18:33:00+00:00",
+                "estimated_runway": "2025-05-01T18:33:00+00:00",
+                "actual_runway": "2025-05-01T18:33:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T19:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T19:25:00+00:00",
+                "actual": "2025-05-01T19:18:00+00:00",
+                "estimated_runway": "2025-05-01T19:18:00+00:00",
+                "actual_runway": "2025-05-01T19:18:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "3706",
+                "iata": "G33706",
+                "icao": "GLO3706",
+                "codeshared": {
+                    "airline_name": "azul",
+                    "airline_iata": "ad",
+                    "airline_icao": "azu",
+                    "flight_number": "2994",
+                    "flight_iata": "ad2994",
+                    "flight_icao": "azu2994"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "5",
+                "delay": 8,
+                "scheduled": "2025-05-01T10:55:00+00:00",
+                "estimated": "2025-05-01T10:55:00+00:00",
+                "actual": "2025-05-01T11:03:00+00:00",
+                "estimated_runway": "2025-05-01T11:03:00+00:00",
+                "actual_runway": "2025-05-01T11:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tancredo Neves International Airport",
+                "timezone": "America/Sao_Paulo",
+                "iata": "CNF",
+                "icao": "SBCF",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T11:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T11:49:00+00:00",
+                "actual": "2025-05-01T11:53:00+00:00",
+                "estimated_runway": "2025-05-01T11:53:00+00:00",
+                "actual_runway": "2025-05-01T11:53:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5352",
+                "iata": "TP5352",
+                "icao": "TAP5352",
+                "codeshared": {
+                    "airline_name": "azul",
+                    "airline_iata": "ad",
+                    "airline_icao": "azu",
+                    "flight_number": "2672",
+                    "flight_iata": "ad2672",
+                    "flight_icao": "azu2672"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "2",
+                "delay": 16,
+                "scheduled": "2025-05-01T19:20:00+00:00",
+                "estimated": "2025-05-01T19:20:00+00:00",
+                "actual": "2025-05-01T19:36:00+00:00",
+                "estimated_runway": "2025-05-01T19:36:00+00:00",
+                "actual_runway": "2025-05-01T19:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B41",
+                "baggage": "10",
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "delay": 2,
+                "estimated": "2025-05-01T20:31:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "7759",
+                "iata": "AA7759",
+                "icao": "AAL7759",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1731",
+                    "flight_iata": "g31731",
+                    "flight_icao": "glo1731"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "2",
+                "delay": 16,
+                "scheduled": "2025-05-01T19:20:00+00:00",
+                "estimated": "2025-05-01T19:20:00+00:00",
+                "actual": "2025-05-01T19:36:00+00:00",
+                "estimated_runway": "2025-05-01T19:36:00+00:00",
+                "actual_runway": "2025-05-01T19:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B41",
+                "baggage": "10",
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "delay": 2,
+                "estimated": "2025-05-01T20:31:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "1919",
+                "iata": "AF1919",
+                "icao": "AFR1919",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1731",
+                    "flight_iata": "g31731",
+                    "flight_icao": "glo1731"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T08:40:00+00:00",
+                "estimated": "2025-05-01T08:40:00+00:00",
+                "actual": "2025-05-01T08:49:00+00:00",
+                "estimated_runway": "2025-05-01T08:49:00+00:00",
+                "actual_runway": "2025-05-01T08:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C44",
+                "baggage": "08",
+                "scheduled": "2025-05-01T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T09:40:00+00:00",
+                "actual": "2025-05-01T09:39:00+00:00",
+                "estimated_runway": "2025-05-01T09:39:00+00:00",
+                "actual_runway": "2025-05-01T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7479",
+                "iata": "AR7479",
+                "icao": "ARG7479",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1803",
+                    "flight_iata": "g31803",
+                    "flight_icao": "glo1803"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 2,
+                "scheduled": "2025-05-01T21:35:00+00:00",
+                "estimated": "2025-05-01T21:35:00+00:00",
+                "actual": "2025-05-01T21:37:00+00:00",
+                "estimated_runway": "2025-05-01T21:37:00+00:00",
+                "actual_runway": "2025-05-01T21:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B42",
+                "baggage": "09",
+                "scheduled": "2025-05-01T22:45:00+00:00",
+                "delay": 4,
+                "estimated": "2025-05-01T22:34:00+00:00",
+                "actual": "2025-05-01T22:49:00+00:00",
+                "estimated_runway": "2025-05-01T22:49:00+00:00",
+                "actual_runway": "2025-05-01T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7555",
+                "iata": "AR7555",
+                "icao": "ARG7555",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "2057",
+                    "flight_iata": "g32057",
+                    "flight_icao": "glo2057"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 7,
+                "scheduled": "2025-05-01T04:45:00+00:00",
+                "estimated": "2025-05-01T04:45:00+00:00",
+                "actual": "2025-05-01T04:52:00+00:00",
+                "estimated_runway": "2025-05-01T04:52:00+00:00",
+                "actual_runway": "2025-05-01T04:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B35",
+                "baggage": "09",
+                "scheduled": "2025-05-01T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:43:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7559",
+                "iata": "AR7559",
+                "icao": "ARG7559",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 1,
+                "scheduled": "2025-05-01T17:15:00+00:00",
+                "estimated": "2025-05-01T17:15:00+00:00",
+                "actual": "2025-05-01T17:16:00+00:00",
+                "estimated_runway": "2025-05-01T17:16:00+00:00",
+                "actual_runway": "2025-05-01T17:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-01T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T18:05:00+00:00",
+                "actual": "2025-05-01T18:05:00+00:00",
+                "estimated_runway": "2025-05-01T18:05:00+00:00",
+                "actual_runway": "2025-05-01T18:05:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7617",
+                "iata": "AR7617",
+                "icao": "ARG7617",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1861",
+                    "flight_iata": "g31861",
+                    "flight_icao": "glo1861"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-01T08:30:00+00:00",
+                "estimated": "2025-05-01T08:30:00+00:00",
+                "actual": "2025-05-01T08:36:00+00:00",
+                "estimated_runway": "2025-05-01T08:36:00+00:00",
+                "actual_runway": "2025-05-01T08:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B26",
+                "baggage": "10",
+                "scheduled": "2025-05-01T09:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T09:26:00+00:00",
+                "actual": "2025-05-01T09:27:00+00:00",
+                "estimated_runway": "2025-05-01T09:27:00+00:00",
+                "actual_runway": "2025-05-01T09:27:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8329",
+                "iata": "AR8329",
+                "icao": "ARG8329",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3665",
+                    "flight_iata": "la3665",
+                    "flight_icao": "lan3665"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:29:00+00:00",
+                "estimated_runway": "2025-05-01T11:29:00+00:00",
+                "actual_runway": "2025-05-01T11:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B28",
+                "baggage": "10",
+                "scheduled": "2025-05-01T12:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:21:00+00:00",
+                "actual": "2025-05-01T12:22:00+00:00",
+                "estimated_runway": "2025-05-01T12:22:00+00:00",
+                "actual_runway": "2025-05-01T12:22:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8330",
+                "iata": "AR8330",
+                "icao": "ARG8330",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3667",
+                    "flight_iata": "la3667",
+                    "flight_icao": "lan3667"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "estimated": "2025-05-01T20:30:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B26",
+                "baggage": "10",
+                "scheduled": "2025-05-01T21:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T21:31:00+00:00",
+                "actual": "2025-05-01T21:24:00+00:00",
+                "estimated_runway": "2025-05-01T21:24:00+00:00",
+                "actual_runway": "2025-05-01T21:24:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8331",
+                "iata": "AR8331",
+                "icao": "ARG8331",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3689",
+                    "flight_iata": "la3689",
+                    "flight_icao": "lan3689"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 4,
+                "scheduled": "2025-05-01T07:00:00+00:00",
+                "estimated": "2025-05-01T07:00:00+00:00",
+                "actual": "2025-05-01T07:03:00+00:00",
+                "estimated_runway": "2025-05-01T07:03:00+00:00",
+                "actual_runway": "2025-05-01T07:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B27",
+                "baggage": "10",
+                "scheduled": "2025-05-01T08:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:54:00+00:00",
+                "actual": "2025-05-01T07:54:00+00:00",
+                "estimated_runway": "2025-05-01T07:54:00+00:00",
+                "actual_runway": "2025-05-01T07:54:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8332",
+                "iata": "AR8332",
+                "icao": "ARG8332",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3855",
+                    "flight_iata": "la3855",
+                    "flight_icao": "lan3855"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 2,
+                "scheduled": "2025-05-01T21:35:00+00:00",
+                "estimated": "2025-05-01T21:35:00+00:00",
+                "actual": "2025-05-01T21:37:00+00:00",
+                "estimated_runway": "2025-05-01T21:37:00+00:00",
+                "actual_runway": "2025-05-01T21:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B42",
+                "baggage": "09",
+                "scheduled": "2025-05-01T22:45:00+00:00",
+                "delay": 4,
+                "estimated": "2025-05-01T22:34:00+00:00",
+                "actual": "2025-05-01T22:49:00+00:00",
+                "estimated_runway": "2025-05-01T22:49:00+00:00",
+                "actual_runway": "2025-05-01T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "SA AVIANCA",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "4649",
+                "iata": "AV4649",
+                "icao": "AVA4649",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "2057",
+                    "flight_iata": "g32057",
+                    "flight_icao": "glo2057"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 7,
+                "scheduled": "2025-05-01T04:45:00+00:00",
+                "estimated": "2025-05-01T04:45:00+00:00",
+                "actual": "2025-05-01T04:52:00+00:00",
+                "estimated_runway": "2025-05-01T04:52:00+00:00",
+                "actual_runway": "2025-05-01T04:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B35",
+                "baggage": "09",
+                "scheduled": "2025-05-01T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:43:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "SA AVIANCA",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "4799",
+                "iata": "AV4799",
+                "icao": "AVA4799",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "2",
+                "delay": 16,
+                "scheduled": "2025-05-01T19:20:00+00:00",
+                "estimated": "2025-05-01T19:20:00+00:00",
+                "actual": "2025-05-01T19:36:00+00:00",
+                "estimated_runway": "2025-05-01T19:36:00+00:00",
+                "actual_runway": "2025-05-01T19:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B41",
+                "baggage": "10",
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "delay": 2,
+                "estimated": "2025-05-01T20:31:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1731",
+                "iata": "G31731",
+                "icao": "GLO1731",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GPM",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E4988B"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T08:40:00+00:00",
+                "estimated": "2025-05-01T08:40:00+00:00",
+                "actual": "2025-05-01T08:49:00+00:00",
+                "estimated_runway": "2025-05-01T08:49:00+00:00",
+                "actual_runway": "2025-05-01T08:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C44",
+                "baggage": "08",
+                "scheduled": "2025-05-01T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T09:40:00+00:00",
+                "actual": "2025-05-01T09:39:00+00:00",
+                "estimated_runway": "2025-05-01T09:39:00+00:00",
+                "actual_runway": "2025-05-01T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1803",
+                "iata": "G31803",
+                "icao": "GLO1803",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XMB",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49405"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 1,
+                "scheduled": "2025-05-01T17:15:00+00:00",
+                "estimated": "2025-05-01T17:15:00+00:00",
+                "actual": "2025-05-01T17:16:00+00:00",
+                "estimated_runway": "2025-05-01T17:16:00+00:00",
+                "actual_runway": "2025-05-01T17:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-01T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T18:05:00+00:00",
+                "actual": "2025-05-01T18:05:00+00:00",
+                "estimated_runway": "2025-05-01T18:05:00+00:00",
+                "actual_runway": "2025-05-01T18:05:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1861",
+                "iata": "G31861",
+                "icao": "GLO1861",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-GXW",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "E48FB7"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 8,
+                "scheduled": "2025-05-01T15:05:00+00:00",
+                "estimated": "2025-05-01T15:05:00+00:00",
+                "actual": "2025-05-01T15:13:00+00:00",
+                "estimated_runway": "2025-05-01T15:13:00+00:00",
+                "actual_runway": "2025-05-01T15:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "10",
+                "scheduled": "2025-05-01T16:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:04:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1951",
+                "iata": "G31951",
+                "icao": "GLO1951",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XMH",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E494BB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 7,
+                "scheduled": "2025-05-01T04:45:00+00:00",
+                "estimated": "2025-05-01T04:45:00+00:00",
+                "actual": "2025-05-01T04:52:00+00:00",
+                "estimated_runway": "2025-05-01T04:52:00+00:00",
+                "actual_runway": "2025-05-01T04:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B35",
+                "baggage": "09",
+                "scheduled": "2025-05-01T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:43:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1973",
+                "iata": "G31973",
+                "icao": "GLO1973",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-GPG",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E49957"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 2,
+                "scheduled": "2025-05-01T21:35:00+00:00",
+                "estimated": "2025-05-01T21:35:00+00:00",
+                "actual": "2025-05-01T21:37:00+00:00",
+                "estimated_runway": "2025-05-01T21:37:00+00:00",
+                "actual_runway": "2025-05-01T21:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B42",
+                "baggage": "09",
+                "scheduled": "2025-05-01T22:45:00+00:00",
+                "delay": 4,
+                "estimated": "2025-05-01T22:34:00+00:00",
+                "actual": "2025-05-01T22:49:00+00:00",
+                "estimated_runway": "2025-05-01T22:49:00+00:00",
+                "actual_runway": "2025-05-01T22:49:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "2057",
+                "iata": "G32057",
+                "icao": "GLO2057",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-GGP",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "E48394"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "2",
+                "delay": 16,
+                "scheduled": "2025-05-01T19:20:00+00:00",
+                "estimated": "2025-05-01T19:20:00+00:00",
+                "actual": "2025-05-01T19:36:00+00:00",
+                "estimated_runway": "2025-05-01T19:36:00+00:00",
+                "actual_runway": "2025-05-01T19:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B41",
+                "baggage": "10",
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "delay": 2,
+                "estimated": "2025-05-01T20:31:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "9333",
+                "iata": "KL9333",
+                "icao": "KLM9333",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1731",
+                    "flight_iata": "g31731",
+                    "flight_icao": "glo1731"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 1,
+                "scheduled": "2025-05-01T17:15:00+00:00",
+                "estimated": "2025-05-01T17:15:00+00:00",
+                "actual": "2025-05-01T17:16:00+00:00",
+                "estimated_runway": "2025-05-01T17:16:00+00:00",
+                "actual_runway": "2025-05-01T17:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-01T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T18:05:00+00:00",
+                "actual": "2025-05-01T18:05:00+00:00",
+                "estimated_runway": "2025-05-01T18:05:00+00:00",
+                "actual_runway": "2025-05-01T18:05:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "9335",
+                "iata": "KL9335",
+                "icao": "KLM9335",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1861",
+                    "flight_iata": "g31861",
+                    "flight_icao": "glo1861"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 6,
+                "scheduled": "2025-05-01T08:30:00+00:00",
+                "estimated": "2025-05-01T08:30:00+00:00",
+                "actual": "2025-05-01T08:36:00+00:00",
+                "estimated_runway": "2025-05-01T08:36:00+00:00",
+                "actual_runway": "2025-05-01T08:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B26",
+                "baggage": "10",
+                "scheduled": "2025-05-01T09:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T09:26:00+00:00",
+                "actual": "2025-05-01T09:27:00+00:00",
+                "estimated_runway": "2025-05-01T09:27:00+00:00",
+                "actual_runway": "2025-05-01T09:27:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3665",
+                "iata": "LA3665",
+                "icao": "LAN3665",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-MHG",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E4803D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:29:00+00:00",
+                "estimated_runway": "2025-05-01T11:29:00+00:00",
+                "actual_runway": "2025-05-01T11:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B28",
+                "baggage": "10",
+                "scheduled": "2025-05-01T12:45:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:21:00+00:00",
+                "actual": "2025-05-01T12:22:00+00:00",
+                "estimated_runway": "2025-05-01T12:22:00+00:00",
+                "actual_runway": "2025-05-01T12:22:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3667",
+                "iata": "LA3667",
+                "icao": "LAN3667",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYT",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E49180"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T20:30:00+00:00",
+                "estimated": "2025-05-01T20:30:00+00:00",
+                "actual": "2025-05-01T20:32:00+00:00",
+                "estimated_runway": "2025-05-01T20:32:00+00:00",
+                "actual_runway": "2025-05-01T20:32:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B26",
+                "baggage": "10",
+                "scheduled": "2025-05-01T21:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T21:31:00+00:00",
+                "actual": "2025-05-01T21:24:00+00:00",
+                "estimated_runway": "2025-05-01T21:24:00+00:00",
+                "actual_runway": "2025-05-01T21:24:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3689",
+                "iata": "LA3689",
+                "icao": "LAN3689",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XBC",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E49450"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "2",
+                "delay": 4,
+                "scheduled": "2025-05-01T07:00:00+00:00",
+                "estimated": "2025-05-01T07:00:00+00:00",
+                "actual": "2025-05-01T07:03:00+00:00",
+                "estimated_runway": "2025-05-01T07:03:00+00:00",
+                "actual_runway": "2025-05-01T07:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B27",
+                "baggage": "10",
+                "scheduled": "2025-05-01T08:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:54:00+00:00",
+                "actual": "2025-05-01T07:54:00+00:00",
+                "estimated_runway": "2025-05-01T07:54:00+00:00",
+                "actual_runway": "2025-05-01T07:54:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3855",
+                "iata": "LA3855",
+                "icao": "LAN3855",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XBA",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "E4944E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T08:40:00+00:00",
+                "estimated": "2025-05-01T08:40:00+00:00",
+                "actual": "2025-05-01T08:49:00+00:00",
+                "estimated_runway": "2025-05-01T08:49:00+00:00",
+                "actual_runway": "2025-05-01T08:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "C44",
+                "baggage": "08",
+                "scheduled": "2025-05-01T09:50:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T09:40:00+00:00",
+                "actual": "2025-05-01T09:39:00+00:00",
+                "estimated_runway": "2025-05-01T09:39:00+00:00",
+                "actual_runway": "2025-05-01T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5753",
+                "iata": "TP5753",
+                "icao": "TAP5753",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1803",
+                    "flight_iata": "g31803",
+                    "flight_icao": "glo1803"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 1,
+                "scheduled": "2025-05-01T17:15:00+00:00",
+                "estimated": "2025-05-01T17:15:00+00:00",
+                "actual": "2025-05-01T17:16:00+00:00",
+                "estimated_runway": "2025-05-01T17:16:00+00:00",
+                "actual_runway": "2025-05-01T17:16:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "08",
+                "scheduled": "2025-05-01T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T18:05:00+00:00",
+                "actual": "2025-05-01T18:05:00+00:00",
+                "estimated_runway": "2025-05-01T18:05:00+00:00",
+                "actual_runway": "2025-05-01T18:05:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5767",
+                "iata": "TP5767",
+                "icao": "TAP5767",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1861",
+                    "flight_iata": "g31861",
+                    "flight_icao": "glo1861"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "1",
+                "delay": 8,
+                "scheduled": "2025-05-01T15:05:00+00:00",
+                "estimated": "2025-05-01T15:05:00+00:00",
+                "actual": "2025-05-01T15:13:00+00:00",
+                "estimated_runway": "2025-05-01T15:13:00+00:00",
+                "actual_runway": "2025-05-01T15:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B39",
+                "baggage": "10",
+                "scheduled": "2025-05-01T16:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:04:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5803",
+                "iata": "TP5803",
+                "icao": "TAP5803",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1951",
+                    "flight_iata": "g31951",
+                    "flight_icao": "glo1951"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 7,
+                "scheduled": "2025-05-01T04:45:00+00:00",
+                "estimated": "2025-05-01T04:45:00+00:00",
+                "actual": "2025-05-01T04:52:00+00:00",
+                "estimated_runway": "2025-05-01T04:52:00+00:00",
+                "actual_runway": "2025-05-01T04:52:00+00:00"
+            },
+            "arrival": {
+                "airport": "Galeao Antonio Carlos Jobim",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GIG",
+                "icao": "SBGL",
+                "terminal": "2",
+                "gate": "B35",
+                "baggage": "09",
+                "scheduled": "2025-05-01T05:55:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:43:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "TAP Air Portugal",
+                "iata": "TP",
+                "icao": "TAP"
+            },
+            "flight": {
+                "number": "5807",
+                "iata": "TP5807",
+                "icao": "TAP5807",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1973",
+                    "flight_iata": "g31973",
+                    "flight_icao": "glo1973"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "American Airlines",
+                "iata": "AA",
+                "icao": "AAL"
+            },
+            "flight": {
+                "number": "7684",
+                "iata": "AA7684",
+                "icao": "AAL7684",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Air Canada",
+                "iata": "AC",
+                "icao": "ACA"
+            },
+            "flight": {
+                "number": "9823",
+                "iata": "AC9823",
+                "icao": "ACA9823",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "1912",
+                "iata": "AF1912",
+                "icao": "AFR1912",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "2060",
+                "iata": "AF2060",
+                "icao": "AFR2060",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T04:25:00+00:00",
+                "estimated": "2025-05-01T04:25:00+00:00",
+                "actual": "2025-05-01T04:23:00+00:00",
+                "estimated_runway": "2025-05-01T04:23:00+00:00",
+                "actual_runway": "2025-05-01T04:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:41:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8487",
+                "iata": "AM8487",
+                "icao": "AMX8487",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4537",
+                    "flight_iata": "la4537",
+                    "flight_icao": "lan4537"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7499",
+                "iata": "AR7499",
+                "icao": "ARG7499",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "7665",
+                "iata": "AR7665",
+                "icao": "ARG7665",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 4,
+                "scheduled": "2025-05-01T06:50:00+00:00",
+                "estimated": "2025-05-01T06:50:00+00:00",
+                "actual": "2025-05-01T06:53:00+00:00",
+                "estimated_runway": "2025-05-01T06:53:00+00:00",
+                "actual_runway": "2025-05-01T06:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T08:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T08:07:00+00:00",
+                "actual": "2025-05-01T08:08:00+00:00",
+                "estimated_runway": "2025-05-01T08:08:00+00:00",
+                "actual_runway": "2025-05-01T08:08:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8258",
+                "iata": "AR8258",
+                "icao": "ARG8258",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3358",
+                    "flight_iata": "la3358",
+                    "flight_icao": "lan3358"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 4,
+                "scheduled": "2025-05-01T19:40:00+00:00",
+                "estimated": "2025-05-01T19:40:00+00:00",
+                "actual": "2025-05-01T19:44:00+00:00",
+                "estimated_runway": "2025-05-01T19:44:00+00:00",
+                "actual_runway": "2025-05-01T19:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T21:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T21:01:00+00:00",
+                "actual": "2025-05-01T21:01:00+00:00",
+                "estimated_runway": "2025-05-01T21:01:00+00:00",
+                "actual_runway": "2025-05-01T21:01:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8336",
+                "iata": "AR8336",
+                "icao": "ARG8336",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3335",
+                    "flight_iata": "la3335",
+                    "flight_icao": "lan3335"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:40:00+00:00",
+                "estimated": "2025-05-01T11:40:00+00:00",
+                "actual": "2025-05-01T11:49:00+00:00",
+                "estimated_runway": "2025-05-01T11:49:00+00:00",
+                "actual_runway": "2025-05-01T11:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T13:06:00+00:00",
+                "actual": "2025-05-01T13:05:00+00:00",
+                "estimated_runway": "2025-05-01T13:05:00+00:00",
+                "actual_runway": "2025-05-01T13:05:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8337",
+                "iata": "AR8337",
+                "icao": "ARG8337",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3994",
+                    "flight_iata": "la3994",
+                    "flight_icao": "lan3994"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T04:25:00+00:00",
+                "estimated": "2025-05-01T04:25:00+00:00",
+                "actual": "2025-05-01T04:23:00+00:00",
+                "estimated_runway": "2025-05-01T04:23:00+00:00",
+                "actual_runway": "2025-05-01T04:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:41:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8338",
+                "iata": "AR8338",
+                "icao": "ARG8338",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4537",
+                    "flight_iata": "la4537",
+                    "flight_icao": "lan4537"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "SA AVIANCA",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "4765",
+                "iata": "AV4765",
+                "icao": "AVA4765",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:40:00+00:00",
+                "estimated": "2025-05-01T11:40:00+00:00",
+                "actual": "2025-05-01T11:49:00+00:00",
+                "estimated_runway": "2025-05-01T11:49:00+00:00",
+                "actual_runway": "2025-05-01T11:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T13:06:00+00:00",
+                "actual": "2025-05-01T13:05:00+00:00",
+                "estimated_runway": "2025-05-01T13:05:00+00:00",
+                "actual_runway": "2025-05-01T13:05:00+00:00"
+            },
+            "airline": {
+                "name": "British Airways",
+                "iata": "BA",
+                "icao": "BAW"
+            },
+            "flight": {
+                "number": "7674",
+                "iata": "BA7674",
+                "icao": "BAW7674",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3994",
+                    "flight_iata": "la3994",
+                    "flight_icao": "lan3994"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Copa Airlines",
+                "iata": "CM",
+                "icao": "CMP"
+            },
+            "flight": {
+                "number": "3557",
+                "iata": "CM3557",
+                "icao": "CMP3557",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "8",
+                "delay": 4,
+                "scheduled": "2025-05-01T06:50:00+00:00",
+                "estimated": "2025-05-01T06:50:00+00:00",
+                "actual": "2025-05-01T06:53:00+00:00",
+                "estimated_runway": "2025-05-01T06:53:00+00:00",
+                "actual_runway": "2025-05-01T06:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T08:35:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T08:07:00+00:00",
+                "actual": "2025-05-01T08:08:00+00:00",
+                "estimated_runway": "2025-05-01T08:08:00+00:00",
+                "actual_runway": "2025-05-01T08:08:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6136",
+                "iata": "DL6136",
+                "icao": "DAL6136",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3358",
+                    "flight_iata": "la3358",
+                    "flight_icao": "lan3358"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "3642",
+                "iata": "EK3642",
+                "icao": "UAE3642",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "3644",
+                "iata": "EK3644",
+                "icao": "UAE3644",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Ethiopian Airlines",
+                "iata": "ET",
+                "icao": "ETH"
+            },
+            "flight": {
+                "number": "4159",
+                "iata": "ET4159",
+                "icao": "ETH4159",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Ethiopian Airlines",
+                "iata": "ET",
+                "icao": "ETH"
+            },
+            "flight": {
+                "number": "4183",
+                "iata": "ET4183",
+                "icao": "ETH4183",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1385",
+                "iata": "G31385",
+                "icao": "GLO1385",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-XMN",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "E4952D"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "Gol",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "1637",
+                "iata": "G31637",
+                "icao": "GLO1637",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-GYA",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "E491C3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 14,
+                "scheduled": "2025-05-01T14:35:00+00:00",
+                "estimated": "2025-05-01T14:35:00+00:00",
+                "actual": "2025-05-01T14:48:00+00:00",
+                "estimated_runway": "2025-05-01T14:48:00+00:00",
+                "actual_runway": "2025-05-01T14:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T16:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:07:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6491",
+                "iata": "IB6491",
+                "icao": "IBE6491",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3333",
+                    "flight_iata": "la3333",
+                    "flight_icao": "lan3333"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 32,
+                "scheduled": "2025-05-01T09:45:00+00:00",
+                "estimated": "2025-05-01T09:45:00+00:00",
+                "actual": "2025-05-01T10:17:00+00:00",
+                "estimated_runway": "2025-05-01T10:17:00+00:00",
+                "actual_runway": "2025-05-01T10:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T11:20:00+00:00",
+                "delay": 15,
+                "estimated": "2025-05-01T11:33:00+00:00",
+                "actual": "2025-05-01T11:35:00+00:00",
+                "estimated_runway": "2025-05-01T11:35:00+00:00",
+                "actual_runway": "2025-05-01T11:35:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6622",
+                "iata": "IB6622",
+                "icao": "IBE6622",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3331",
+                    "flight_iata": "la3331",
+                    "flight_icao": "lan3331"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "8",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:35:00+00:00",
+                "estimated": "2025-05-01T11:35:00+00:00",
+                "actual": "2025-05-01T11:43:00+00:00",
+                "estimated_runway": "2025-05-01T11:43:00+00:00",
+                "actual_runway": "2025-05-01T11:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:05:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T12:56:00+00:00",
+                "actual": "2025-05-01T12:59:00+00:00",
+                "estimated_runway": "2025-05-01T12:59:00+00:00",
+                "actual_runway": "2025-05-01T12:59:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "9409",
+                "iata": "KL9409",
+                "icao": "KLM9409",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1637",
+                    "flight_iata": "g31637",
+                    "flight_icao": "glo1637"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": null,
+                "gate": "3",
+                "delay": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "estimated": "2025-05-01T06:00:00+00:00",
+                "actual": "2025-05-01T05:58:00+00:00",
+                "estimated_runway": "2025-05-01T05:58:00+00:00",
+                "actual_runway": "2025-05-01T05:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T07:40:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T07:13:00+00:00",
+                "actual": "2025-05-01T07:15:00+00:00",
+                "estimated_runway": "2025-05-01T07:15:00+00:00",
+                "actual_runway": "2025-05-01T07:15:00+00:00"
+            },
+            "airline": {
+                "name": "KLM",
+                "iata": "KL",
+                "icao": "KLM"
+            },
+            "flight": {
+                "number": "9455",
+                "iata": "KL9455",
+                "icao": "KLM9455",
+                "codeshared": {
+                    "airline_name": "gol",
+                    "airline_iata": "g3",
+                    "airline_icao": "glo",
+                    "flight_number": "1385",
+                    "flight_iata": "g31385",
+                    "flight_icao": "glo1385"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 32,
+                "scheduled": "2025-05-01T09:45:00+00:00",
+                "estimated": "2025-05-01T09:45:00+00:00",
+                "actual": "2025-05-01T10:17:00+00:00",
+                "estimated_runway": "2025-05-01T10:17:00+00:00",
+                "actual_runway": "2025-05-01T10:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T11:20:00+00:00",
+                "delay": 15,
+                "estimated": "2025-05-01T11:33:00+00:00",
+                "actual": "2025-05-01T11:35:00+00:00",
+                "estimated_runway": "2025-05-01T11:35:00+00:00",
+                "actual_runway": "2025-05-01T11:35:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3331",
+                "iata": "LA3331",
+                "icao": "LAN3331",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-XPN",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "E49247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 14,
+                "scheduled": "2025-05-01T14:35:00+00:00",
+                "estimated": "2025-05-01T14:35:00+00:00",
+                "actual": "2025-05-01T14:48:00+00:00",
+                "estimated_runway": "2025-05-01T14:48:00+00:00",
+                "actual_runway": "2025-05-01T14:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T16:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:07:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3333",
+                "iata": "LA3333",
+                "icao": "LAN3333",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-LBG",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "E49C07"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 4,
+                "scheduled": "2025-05-01T19:40:00+00:00",
+                "estimated": "2025-05-01T19:40:00+00:00",
+                "actual": "2025-05-01T19:44:00+00:00",
+                "estimated_runway": "2025-05-01T19:44:00+00:00",
+                "actual_runway": "2025-05-01T19:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T21:25:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T21:01:00+00:00",
+                "actual": "2025-05-01T21:01:00+00:00",
+                "estimated_runway": "2025-05-01T21:01:00+00:00",
+                "actual_runway": "2025-05-01T21:01:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3335",
+                "iata": "LA3335",
+                "icao": "LAN3335",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PS-LBN",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "E49C00"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T11:40:00+00:00",
+                "estimated": "2025-05-01T11:40:00+00:00",
+                "actual": "2025-05-01T11:49:00+00:00",
+                "estimated_runway": "2025-05-01T11:49:00+00:00",
+                "actual_runway": "2025-05-01T11:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T13:15:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T13:06:00+00:00",
+                "actual": "2025-05-01T13:05:00+00:00",
+                "estimated_runway": "2025-05-01T13:05:00+00:00",
+                "actual_runway": "2025-05-01T13:05:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "3994",
+                "iata": "LA3994",
+                "icao": "LAN3994",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PT-XPC",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "E491A1"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "6",
+                "delay": 9,
+                "scheduled": "2025-05-01T04:25:00+00:00",
+                "estimated": "2025-05-01T04:25:00+00:00",
+                "actual": "2025-05-01T04:23:00+00:00",
+                "estimated_runway": "2025-05-01T04:23:00+00:00",
+                "actual_runway": "2025-05-01T04:23:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T06:00:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T05:41:00+00:00",
+                "actual": "2025-05-01T05:43:00+00:00",
+                "estimated_runway": "2025-05-01T05:43:00+00:00",
+                "actual_runway": "2025-05-01T05:43:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4537",
+                "iata": "LA4537",
+                "icao": "LAN4537",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "PR-TYV",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "E49220"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 14,
+                "scheduled": "2025-05-01T14:35:00+00:00",
+                "estimated": "2025-05-01T14:35:00+00:00",
+                "actual": "2025-05-01T14:48:00+00:00",
+                "estimated_runway": "2025-05-01T14:48:00+00:00",
+                "actual_runway": "2025-05-01T14:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T16:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:07:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "4705",
+                "iata": "LH4705",
+                "icao": "DLH4705",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3333",
+                    "flight_iata": "la3333",
+                    "flight_icao": "lan3333"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-01",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Eurico Sales",
+                "timezone": "America/Sao_Paulo",
+                "iata": "VIX",
+                "icao": "SBVT",
+                "terminal": "1",
+                "gate": "5",
+                "delay": 14,
+                "scheduled": "2025-05-01T14:35:00+00:00",
+                "estimated": "2025-05-01T14:35:00+00:00",
+                "actual": "2025-05-01T14:48:00+00:00",
+                "estimated_runway": "2025-05-01T14:48:00+00:00",
+                "actual_runway": "2025-05-01T14:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Aeroporto Internacional Guarulhos",
+                "timezone": "America/Sao_Paulo",
+                "iata": "GRU",
+                "icao": "SBGR",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-01T16:10:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-01T16:07:00+00:00",
+                "actual": "2025-05-01T16:08:00+00:00",
+                "estimated_runway": "2025-05-01T16:08:00+00:00",
+                "actual_runway": "2025-05-01T16:08:00+00:00"
+            },
+            "airline": {
+                "name": "Qatar Airways",
+                "iata": "QR",
+                "icao": "QTR"
+            },
+            "flight": {
+                "number": "5157",
+                "iata": "QR5157",
+                "icao": "QTR5157",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "3333",
+                    "flight_iata": "la3333",
+                    "flight_icao": "lan3333"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}

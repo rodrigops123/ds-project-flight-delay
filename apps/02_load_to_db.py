@@ -42,6 +42,8 @@ def parse_flights_data(json_path: Path) -> list:
             "arrival_scheduled": flight.get("arrival", {}).get("scheduled"),
             "airline_name": flight.get("airline", {}).get("name"),
             "flight_number": flight.get("flight", {}).get("number"),
+            "flight_depart_delay": flight.get("departure", {}).get("delay"),
+            "flight_arrival_delay": flight.get("arrival", {}).get("delay"),
         }
         parsed_records.append(record)
     
@@ -60,7 +62,9 @@ def create_flights_table(conn: sqlite3.Connection) -> None:
         arrival_airport TEXT,
         arrival_scheduled TEXT,
         airline_name TEXT,
-        flight_number TEXT
+        flight_number TEXT,
+        flight_depart_delay INTEGER,
+        flight_arrival_delay INTEGER
     );
     """
     conn.execute(create_table_sql)
@@ -78,8 +82,10 @@ def insert_flights_data(conn: sqlite3.Connection, records: list) -> None:
         arrival_airport,
         arrival_scheduled,
         airline_name,
-        flight_number
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+        flight_number,
+        flight_depart_delay,
+        flight_arrival_delay
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
     """
     values = [
         (
@@ -91,6 +97,8 @@ def insert_flights_data(conn: sqlite3.Connection, records: list) -> None:
             r["arrival_scheduled"],
             r["airline_name"],
             r["flight_number"],
+            r["flight_depart_delay"],
+            r["flight_arrival_delay"]
         )
         for r in records
     ]
@@ -98,6 +106,22 @@ def insert_flights_data(conn: sqlite3.Connection, records: list) -> None:
     conn.executemany(insert_sql, values)
     conn.commit()
     logger.info(f"Inserted {len(records)} records into flights_raw")
+
+
+def drop_duplicates_in_raw_table(conn: sqlite3.Connection) -> None:
+    """Remove duplicate records from the flights_raw table."""
+    delete_duplicates_sql = """
+    DELETE FROM flights_raw
+    WHERE id NOT IN (
+        SELECT MIN(id)
+        FROM flights_raw
+        GROUP BY flight_date, flight_status, departure_airport, arrival_airport, airline_name, flight_number
+    );
+    """
+    conn.execute(delete_duplicates_sql)
+    conn.commit()
+    logger.info("Duplicates removed from flights_raw table")
+
 
 def main():
     """Main script to load raw JSON into SQLite."""
@@ -115,6 +139,8 @@ def main():
     # Parse and insert data
     flight_records = parse_flights_data(latest_file)
     insert_flights_data(conn, flight_records)
+    
+    drop_duplicates_in_raw_table(conn)
     
     conn.close()
     logger.info("[END] Database loading completed.")

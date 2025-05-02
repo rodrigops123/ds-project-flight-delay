@@ -1,0 +1,12 @@
+2025-05-01 18:58:54,384 | INFO | [START] SQL Data feature engineering pipeline
+2025-05-01 18:58:54,385 | INFO | Starting SQL-based data feature engineering
+2025-05-01 18:58:54,387 | INFO | SQL feature engineering script applied and flights_transformed table created
+2025-05-01 18:58:54,387 | INFO | [END] SQL Data feature engineering pipeline completed.
+2025-05-02 10:53:26,562 | INFO | [START] SQL Data feature engineering pipeline
+2025-05-02 10:53:26,565 | INFO | Starting SQL-based data feature engineering
+2025-05-02 10:53:26,567 | INFO | SQL feature engineering script applied and flights_transformed table created
+2025-05-02 10:53:26,567 | INFO | [END] SQL Data feature engineering pipeline completed.
+2025-05-02 12:34:32,502 | INFO | [START] SQL Data feature engineering pipeline
+2025-05-02 12:34:32,504 | INFO | Starting SQL-based data feature engineering
+2025-05-02 12:34:32,507 | INFO | SQL feature engineering script applied and flights_transformed table created
+2025-05-02 12:34:32,507 | INFO | [END] SQL Data feature engineering pipeline completed.

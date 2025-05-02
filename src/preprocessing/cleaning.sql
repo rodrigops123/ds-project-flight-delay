@@ -12,7 +12,9 @@ SELECT
     departure_scheduled,
     arrival_scheduled,
     flight_number,
-    airline_name
+    airline_name,
+    flight_depart_delay,
+    flight_arrival_delay
 FROM flights_raw
 WHERE
     flight_date IS NOT NULL
